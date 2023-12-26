@@ -11,3 +11,18 @@
 
 ## How to install Typescript?
     npm install -g typescript
+
+## Typescript Types
+- boolean
+- number
+- string
+- Null
+- Undefined
+- Void
+- Object
+- Array
+- Tuples
+- .........
+- Any
+- Never
+- Unknown
