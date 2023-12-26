@@ -1,7 +1,3 @@
-let username = {name: "Abodawoud", age: 21};
-
-console.log("Hello World");
-console.log(username.email);
 /*
     * To compile this file use this command
     * tsc 01-intro.ts
@@ -12,3 +8,7 @@ console.log(username.email);
     * It will compile the file even if it has errors 
     as these error will not stop the compilation process
 */
+let username = {name: "Abodawoud", age: 21};
+
+console.log("Hello World");
+console.log(username.email);
