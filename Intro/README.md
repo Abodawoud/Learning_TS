@@ -22,7 +22,7 @@
 - Object
 - Array
 - Tuples
-- .........
-- Any
+- ......... And more
+- Any --> <b>### Avoid using this type ### if you want to avoid it open the tsconfig.json file set the "noImplicitAny" to true</b>
 - Never
 - Unknown
