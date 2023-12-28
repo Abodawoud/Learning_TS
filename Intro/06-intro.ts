@@ -32,3 +32,4 @@ const allUsers: string[][] = [
     ['Jane', 'Doe'],
     ['Jack', 'Doe'],
 ];
+// you can write this also Array<string[]> === string[][]
