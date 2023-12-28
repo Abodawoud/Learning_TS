@@ -24,5 +24,6 @@
 - Tuples
 - ......... And more
 - Any --> <b>### Avoid using this type ### if you want to avoid it open the tsconfig.json file set the "noImplicitAny" to true</b>
-- Never
+- Never --> <b>### never means that the function will never return anything
+and it used in error handling that throws exception or terminate the program ###</b>
 - Unknown

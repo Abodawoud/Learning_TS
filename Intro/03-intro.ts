@@ -1,8 +1,6 @@
 /**
     * When you write [value: type] the `[: type] called type annotation`
-    * Funcion can return string or number or boolean or void or any or never
-    * never means that the function will never return anything
-    and it used in error handling that throws exception or terminate the program
+    * Functions can return string or number or boolean or void or any or never
  */
 function add(num: number) {
     return num + 2;
