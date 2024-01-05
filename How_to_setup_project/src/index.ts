@@ -1,3 +1,5 @@
+import {takePhoto} from './second';
+
 class User {
   _name: string
   _email: string

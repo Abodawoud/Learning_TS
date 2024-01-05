@@ -1,7 +1,7 @@
 // Use Interface
 // Interface must be implemented by class
 // Used for consistency and reusability and to avoid errors
-interface takePhoto {
+export interface takePhoto {
   cameraMode: string;
   filter: string;
   burstMode: boolean;
